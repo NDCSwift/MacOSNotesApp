@@ -1,0 +1,82 @@
+# macOS
+.DS_Store
+
+# User settings
+xcuserdata/
+*.xcuserstate
+*.plist
+
+# Build products
+build/
+DerivedData/
+
+# Old Xcode (legacy, not needed for Xcode 9+)
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xccheckout
+*.xcscmblueprint
+
+### Xcode ###
+## User settings
+xcuserdata/
+
+## Xcode 8 and earlier
+*.xcscmblueprint
+*.xccheckout
+
+### Xcode Patch ###
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/project.xcworkspace/
+!*.xcworkspace/contents.xcworkspacedata
+/*.gcno
+**/xcshareddata/WorkspaceSettings.xcsettings
+
+
+# Swift Package Manager
+.build/
+.swiftpm/xcode
+Package.resolved
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Accio
+Dependencies/
+.accio/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Code Injection
+iOSInjectionProject/
+
+# Sensitive files
+*.p12
+*.mobileprovision
+*.icloudcontainer
+*.certSigningRequest
+*.provisionprofile
+
+# API keys / Secrets
+Secrets.plist
+Config.json
+*.env
+*.key
+*.pem
+*.crt
+
+# Other IDE clutter
+*.swp
+*.swo
+*.tmp
+*.log

@@ -20,7 +20,7 @@ This is a clean, functional macOS notes app built entirely in SwiftUI. A `NoteSt
 
 [![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/-g2N4x3dtnc)
 
-> This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding97).
+> This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding).
 
 ---
 
